@@ -1,0 +1,41 @@
+
+.top-content{
+    display: flex;
+    margin-left: 130px;
+    margin-bottom: 40px;
+    gap: 55px;
+}
+
+.select-content{
+    width: 170px;
+    height: 35px;
+    margin-top: 40px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: blueviolet;
+    border: 2px solid blueviolet;
+    
+}
+.logo{
+    width: 150px;
+}
+.btn-outline-success{
+    color: aliceblue;
+    background-color: blueviolet;
+    border: 2px solid blueviolet;
+    height: 35px;
+    margin-top: 40px;
+}
+
+.btn-outline-success:hover{
+    background-color: rgb(94, 14, 170);
+    border: 2px solid rgb(94, 14, 170);
+}
+.form-control{
+    width: 170px;
+    height: 35px;
+    margin-top: 40px;
+    margin-left: 350px;
+}
+
+
