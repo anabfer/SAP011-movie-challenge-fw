@@ -1,0 +1,36 @@
+#movie-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1500px;
+    margin: 0 auto; 
+    
+}
+
+.card {
+    flex: 0 0 16%;
+    max-width: 16%; 
+    box-sizing: border-box;
+    margin: 0;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card-body {
+    padding: 5px; /* Reduz o preenchimento interno */
+}
+
+h3 {
+    font-size: 14px; /* Reduz o tamanho da fonte do título */
+}
+
+h6 {
+    font-size: 12px; /* Reduz o tamanho da fonte da data de lançamento */
+}
