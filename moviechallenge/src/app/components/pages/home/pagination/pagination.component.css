@@ -1,0 +1,19 @@
+*{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.pagination{
+    gap: 20;
+    margin-top: 20px;
+}
+.page-link{
+    border: none;
+}
+
+.selected-page {
+    background-color: rgb(94, 14, 170); 
+    color: #fff; 
+  }
+  
